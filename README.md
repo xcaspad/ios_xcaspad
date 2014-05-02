@@ -11,9 +11,13 @@ Xcas Pad for IOS is released for developpers who would like to contribute to the
 Xcas Pad for IOS is a parallel develop of Android version.
 
 TODO:
+
 Operator ^ can't be readed from the input text front end.
+
 Implements help system.
+
 Implements plotter system.
+
 
 Xcas Pad uses MathJax as frontend TeX render. 
 
